@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#pip install PyCryptodome
 import argparse
 import hashlib
 from Crypto.Cipher import AES
